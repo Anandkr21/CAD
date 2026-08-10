@@ -10,7 +10,8 @@ app.get('/home', (req,res) =>{
 })
 
 
-app.listen(5000, () =>{
-    console.log("Port is running")
-})
+// app.listen(5000, () =>{
+//     console.log("Port is running")
+// })
 
+module.exports = app;
