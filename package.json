@@ -2,9 +2,9 @@
   "name": "cad",
   "version": "1.0.0",
   "description": "Lab Practicals",
-  "main": "api/index.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node api/index.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
